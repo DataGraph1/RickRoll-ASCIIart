@@ -23,4 +23,4 @@ def animation(): #plays ASCII art animation
         else:
             lyricNum = 1
 
-animation()
+screenSetUp()
